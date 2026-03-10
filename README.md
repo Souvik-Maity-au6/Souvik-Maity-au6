@@ -1,25 +1,121 @@
 <h1 align="center">Hi 👋, I'm Souvik Maity</h1>
-<h3 align="center">Programmer, Developer, Designer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=souvik-maity-au6" alt="souvik-maity-au6" /> </p>
-
-- 🌱 I’m currently learning **Angular**
-
-- 👨‍💻 All of my projects are available at [https://dev-souvik.netlify.app/](https://dev-souvik.netlify.app/)
-
-- 💬 Ask me about **Javascript, Python**
-
-- 📫 How to reach me **kingsouvik111@gmail.com**
-
-- ⚡ Fun fact **I love to play guitar**
-
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvik-maity-au6&layout=compact&hide=html" alt="souvik-maity-au6" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souvik-maity-au6&show_icons=true" alt="souvik-maity-au6" /></p>
+<h3 align="center">Full Stack Developer | Next.js | React Native | AI Prompt Engineer</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/souvik maity" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="souvik maity" height="30" width="30" /></a>
-<a href="https://fb.com/souvik maity" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="souvik maity" height="30" width="30" /></a>
-<a href="https://dribbble.com/souvik maity" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="souvik maity" height="30" width="30" /></a>
-<a href="https://www.behance.net/souvik maity" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="souvik maity" height="30" width="30" /></a>
+<img src="https://komarev.com/ghpvc/?username=souvik-maity-au6&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
+
+---
+
+# 👨‍💻 About Me
+
+🎓 BCA Student passionate about **Software Development, AI and Problem Solving**
+
+💻 I build **scalable web and mobile applications**
+
+⚡ Specialized in **Next.js, React, React Native, and Node.js**
+
+🤖 Interested in **AI, Prompt Engineering, and AI-powered applications**
+
+🚀 Currently exploring **advanced full stack architectures and AI integrations**
+
+🎸 Fun fact: **I love playing guitar**
+
+🌐 Portfolio
+👉 https://dev-souvik.netlify.app/
+
+📫 Email
+**[kingsouvik111@gmail.com](mailto:kingsouvik111@gmail.com)**
+
+---
+
+# 🚀 Tech Stack
+
+## 💻 Programming Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+
+---
+
+## 🌐 Web Development
+
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge\&logo=redux\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CD6799?style=for-the-badge\&logo=sass\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+
+---
+
+## 📱 Mobile Development
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+
+---
+
+## ⚙️ Backend Development
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+---
+
+## 🤖 AI & Prompt Engineering
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-AI-blue?style=for-the-badge)
+
+---
+
+## 🗄️ Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+---
+
+## ☁️ Tools & Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge\&logo=webpack\&logoColor=black)
+![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge\&logo=adobephotoshop\&logoColor=31A8FF)
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=souvik-maity-au6&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvik-maity-au6&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=souvik-maity-au6&theme=tokyo-night&area=true&hide_border=true"/>
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/souvik-maity-aa01ab140/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Souvik%20Maity-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+⭐️ From **Souvik Maity**
