@@ -92,9 +92,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=souvik-maity-au6&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Souvik-Maity-au6&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvik-maity-au6&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souvik-Maity-au6&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 
 </p>
 
@@ -103,7 +103,7 @@
 # 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=souvik-maity-au6&theme=tokyo-night&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Souvik-Maity-au6&theme=tokyo-night&area=true&hide_border=true"/>
 </p>
 
 ---
